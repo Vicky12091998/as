@@ -6,4 +6,4 @@ jobs:
     steps:
       - name: info
         run: |
-           echo"This is push event on all branch"
+           echo "This is push event on all branch"
